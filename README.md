@@ -5,5 +5,5 @@ Me gusta aprender cosas nuevas cada dìa
 - Python
 - Git
 [Mi contacto] (https://wa.link/47l0v8)
-![Mi foto] (215b4822-fa75-45e9-908f-4a1d492b7144.jpg)
+![Mi foto] [215b4822-fa75-45e9-908f-4a1d492b7144.jpg]
 
